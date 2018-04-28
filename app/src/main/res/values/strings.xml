@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Your Guide</string>
+    <string name="number_one">one</string>
+    <string name="london">London</string>
+    <string name="milan">Milan</string>
+    <string name="paris">Paris</string>
+    <string name="berlin">Berlin</string>
+    <string name="londonLocation">Location: United Kingdom</string>
+    <string name="milanLocation">Location: Italy</string>
+    <string name="parisLocation">Location: France</string>
+    <string name="berlinLocation">Location: Germany</string>
+    <string name="londonPopulation">Population: 8.788 million (2016)</string>
+    <string name="milanPopulation">Population: 3.1 million(2015)</string>
+    <string name="parisPopulation">Population: 2.24 million (2014)</string>
+    <string name="berlinPopulation">Population: 3.7 million (2016)</string>
+    <string name="north">North</string>
+    <string name="east">East</string>
+    <string name="west">West</string>
+    <string name="south">South</string>
+</resources>
